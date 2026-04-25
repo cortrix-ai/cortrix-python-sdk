@@ -7,7 +7,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="cortrix",
-    version="0.0.1",
+    version="0.1.0a1",
     description="Cortrix Security SDK — Cryptographic identity, policy enforcement, and audit logging for AI agents",
     long_description=open("README.md").read() if __import__("os").path.exists("README.md") else "",
     long_description_content_type="text/markdown",
